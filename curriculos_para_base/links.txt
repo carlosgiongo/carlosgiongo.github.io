@@ -1,0 +1,8 @@
+linkedin:https://www.linkedin.com/in/carlos-giongo/
+github:https://github.com/carlosgiongo
+lattes:http://lattes.cnpq.br/2771022570185135
+orcid:https://orcid.org/0009-0008-0233-3964
+organizations:
+-> https://www.oestagiario.dev/
+-> https://giongo.dev/
+contato:carlos.giongo@giongo.dev
